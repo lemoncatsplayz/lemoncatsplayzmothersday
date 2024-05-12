@@ -1,0 +1,9 @@
+#image{
+    border-color: black;
+    border-style: outset;
+    padding: 5px;
+    border-radius: 5px;
+    border-width: 5px;
+    height: 500px;
+    width: 400px;
+}
